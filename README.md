@@ -1,4 +1,4 @@
-Todo List App 🚀
+**Todo List App** 🚀
 Welcome to the Todo List App repository! This project is a full‐stack task management application built using React on the frontend and Express with MongoDB on the backend. It features full user authentication using JWT along with comprehensive CRUD operations for managing todos. Follow this documentation for details on features, requirements, installation, and how to run it locally on your machine.
 
 ─────────────────────────────────────────────
@@ -76,6 +76,10 @@ You will see the login page. If you are a new user, click the “Register” opt
 • Mark tasks as completed and clear all completed tasks at once
 
 The application communicates with the backend endpoints to perform secure CRUD operations. Enjoy managing your tasks with an interactive and responsive user experience!
+
+─────────────────────────────────────────────
+**LOOM VIEDEO LINK**
+https://www.loom.com/share/31dc256e935843e1be2bc0e6a7682d6f?sid=3c888436-625a-4cfd-bbf7-6acc3a01ab19
 
 ─────────────────────────────────────────────
 
